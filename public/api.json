@@ -1,0 +1,40 @@
+[
+    {   
+        "id": 1,
+        "nombre": "html",
+        "precio": 10,
+        "imgurl": "http://picsum.photos/id/90/600"
+    },
+    {
+        "id": 2,
+        "nombre": "javaScript", 
+        "precio": 50,
+        "imgurl": "http://picsum.photos/id/20/600"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Css", 
+        "precio": 14,
+        "imgurl": "http://picsum.photos/id/50/600"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Reactjs", 
+        "precio": 0,
+        "imgurl": "http://picsum.photos/id/10/600"
+    },
+    {
+        "id": 5,
+        "nombre": "Angular", 
+        "precio": 0,
+        "imgurl": "http://picsum.photos/id/16/600"
+    },
+    {
+        "id": 6,
+        "nombre": "Yane", 
+        "precio": 10000000,
+        "imgurl": "http://picsum.photos/id/16/600"
+    }
+]
